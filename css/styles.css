@@ -1,12 +1,25 @@
-.walrus-showing {
+#walrus-showing {
   display: none;
 }
 
-.clickable {
+.walrusClickable {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+.walrusClickable:hover {
   text-decoration: underline;
+}
+
+.penguinClickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.penguinClickable:hover {
+  text-decoration: underline;
+}
+
+#penguin-showing {
+  display: none;
 }
