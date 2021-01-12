@@ -11,6 +11,10 @@
   text-decoration: underline;
 }
 
+#penguin-showing {
+  display: none;
+}
+
 .penguinClickable {
   cursor: pointer;
   color: #0088cc;
@@ -20,6 +24,28 @@
   text-decoration: underline;
 }
 
-#penguin-showing {
+#polarBear-showing {
   display: none;
+}
+
+.polarBearClickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.polarBearClickable:hover {
+  text-decoration: underline;
+}
+
+#arcticFox-showing {
+  display: none;
+}
+
+.arcticFoxClickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.arcticFoxClickable:hover {
+  text-decoration: underline;
 }
